@@ -5,3 +5,4 @@
 para ejecutar el programa:
 
 ´´´´deves colocar enter´´´´
+sistema de registro2
